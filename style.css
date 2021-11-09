@@ -1,0 +1,33 @@
+*{
+    margin: 10px 15px 0px 10px;
+}
+
+.search{
+    border-radius: 50px;
+    border-color: lightseagreen;
+    border-style: solid;
+    width: 125px;
+    padding: 3px;
+    font-family: sans-serif;
+    color: lightseagreen;
+}
+
+.plus{
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    border-color:lightseagreen;
+    border-style: solid;
+    background-color: lightseagreen;
+    color: white;
+}
+
+.create_account{
+    border-color: black;
+    border-style: solid;
+    width: 150px;
+    padding: 5px;
+    background-color: dodgerblue;
+    color: white;
+    box-shadow: 3px 3px 1px black;
+}
